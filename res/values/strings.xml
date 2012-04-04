@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PruebapreferenciasActivity!</string>
+    <string name="app_name">Prueba preferencias</string>
+    <style name="Propiedades">
+        <item name="android:textColor" >#ccc</item>
+        <item name="android:textSize" >25dip</item>
+        <item name="android:background">#333</item>
+    </style>
+    <string name="boton">Propiedades del boton</string>
+    <string name="checkb">Propiedades de chexbox</string>
+    <string name="radiob">Propiedades de Radio B</string>
+
+</resources>
